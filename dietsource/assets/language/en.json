@@ -1,0 +1,18 @@
+{
+  "app_name": "Dietsource Finance",
+  "email.address": "Email Address",
+  "password": "Password",
+  "login": "Login",
+  "signup": "Signup",
+  "forgot.password": "Forgot Password?",
+  "$": "$",
+  "income": "Income",
+  "expenses": "Expenses",
+  "loan": "Loan",
+  "overview": "Overview",
+  "date": "Sept 13, 2020",
+  "recent.transactions": "Recent Transactions",
+  "see.all": "See all",
+  "today": "Today",
+  "see.details": "See Details"
+}
